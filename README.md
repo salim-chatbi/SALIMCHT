@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/salimcht/salimcht/main/assets/banner.gif" alt="Salim CHATBI | Full Stack Engineer" width="100%">
+  <img src="https://raw.githubusercontent.com/salim-chatbi/salim-chatbi/main/assets/banner.gif" alt="Salim CHATBI | Full Stack Engineer" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm <b>Salim CHATBI</b></h1>
